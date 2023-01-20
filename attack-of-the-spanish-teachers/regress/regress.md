@@ -4,4 +4,4 @@
 
 You died. Now you shall be reborn and regress again.
 
-[You Lose! Go back home?](../attack.md)
+[Please return back to recent spawn point](../attack.md)

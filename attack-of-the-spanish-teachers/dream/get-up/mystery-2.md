@@ -4,4 +4,4 @@
 
 You get hit by truck-kun and have your life flash between your eyes.
 
-[You Lose! Go back home?](../../attack.md)
+[You Lose! Go back home?](../../regress.md)

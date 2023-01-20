@@ -2,6 +2,6 @@
 
 ---------------------------------
 
-You fall and hit the corner of the bed, leaving a huge gash in your head. You bleed out to death.
+You fall and hit the corner of the bed, leaving a huge gash in your head. You go into a coma.
 
-[You Lose! Go back home?](../../attack.md)
+[You Lose! Go back home?](../../regress.md)
