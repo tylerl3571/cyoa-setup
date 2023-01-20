@@ -2,4 +2,4 @@
 
 ---------------------------------
 
-You regress back to the start.
+You died. Now you shall be reborn and regress again.
