@@ -2,6 +2,6 @@
 
 ---------------------------------
 
-They tell you your not allowed to bring UBER food from outside and instead get Detention.
+You fall and hit the corner of the bed, leaving a huge gash in your head. You bleed out to death.
 
 [You Lose! Go back home?](../../attack.md)

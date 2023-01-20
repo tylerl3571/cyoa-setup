@@ -4,3 +4,6 @@
 
 You realize that you're in a dream after realizing that you cannot change your outcome. What would you do now?
 Choose your options:
+
+[Wake Up](../regress/regress.md)
+[Stay in the dream](./stay.md)

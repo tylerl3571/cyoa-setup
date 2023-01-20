@@ -2,6 +2,6 @@
 
 ---------------------------------
 
-They tell you your not allowed to bring UBER food from outside and instead get Detention.
+You get hit by truck-kun and have your life flash between your eyes.
 
 [You Lose! Go back home?](../../attack.md)
