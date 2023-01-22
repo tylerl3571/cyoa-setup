@@ -4,4 +4,4 @@
 
 They start withering due to how bad google translate translates and backs off and returns to their desks.
 
-[You got it! Now you shall pass.](../../regress.md)
+[You got it! Now you shall pass.](../regress.md)
