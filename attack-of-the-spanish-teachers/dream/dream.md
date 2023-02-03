@@ -6,4 +6,4 @@ You realize that you're in a dream after realizing that you cannot change your o
 Choose your options:
 
 [Wake Up](../dream/get-up/get-up.md)
-[Stay in the dream](../stay.md)
+[Stay in the dream](stay.md)
