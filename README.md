@@ -4,7 +4,7 @@ You are a student at a school and get into an argument with a teacher. What shal
 
 ## [Click here to begin your adventure!](attack-of-the-spanish-teachers/attack.md)
 
-## [Click here to view the plan](https://files.slack.com/files-pri/T0DD2QXUG-F04KJFFH4GJ/mermaid-diagram-20230118172346.png/attack.md)
+## [Click here to view the plan](https://docs.google.com/document/d/1BuBk3EGlnBchaNI7IIFbWpmGIf24MdquaP45shEHG7A/edit)
 
 ## Click [Here to view Tyler's page](https://github.com/tylerl3571)
 
